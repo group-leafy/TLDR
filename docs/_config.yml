@@ -39,9 +39,8 @@ app_icon: "assets/image/icon.png"
 show_screenshot: true
 screenshots:
   [
-    "assets/image/screenshot.png",
-    "assets/image/screenshot.png",
-    "assets/image/screenshot.png",
-    "assets/image/screenshot.png",
-    "assets/image/screenshot.png",
+    "assets/image/s1.png",
+    "assets/image/s2.png",
+    "assets/image/s3.png",
+    "assets/image/s4.png",
   ]
